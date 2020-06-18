@@ -3,7 +3,7 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-  difference = num2 - num1
+  difference = num1 - num2
 end
 
 def division(num1, num2)
@@ -19,5 +19,5 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  sq_rt = num ** (1/2)
+  sq_rt = num ** (0.5)
 end
